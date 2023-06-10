@@ -1,3 +1,3 @@
 # furniture-js
 
-This is a test js file
+A project that displays info about furniture. A task for my SofTUni course in JS FrontEnd.
